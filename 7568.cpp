@@ -38,7 +38,6 @@ int main() {
         printf("%d ", answer[i].first);
     }
     printf("\n");
-    
+
     return 0;
 }
-

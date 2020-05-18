@@ -55,13 +55,13 @@ C++의 STL 사용법을 익히니 재귀를 이용하는 DFS보다 BFS가 쉽고
 
 ## Day 3
 
-* [BOJ 15354](https://www.acmicpc.net/problem/15354) **Aron** : 구현
+* [BOJ 15354](https://www.acmicpc.net/problem/15354) **Aron**
 
 
-* [BOJ 15355](https://www.acmicpc.net/problem/15355) **Programiranje** : DP,구현
+* [BOJ 15355](https://www.acmicpc.net/problem/15355) **Programiranje**
 
 
-* [BOJ 12761](https://www.acmicpc.net/problem/12761) **돌다리**   : DFS,BFS
+* [BOJ 12761](https://www.acmicpc.net/problem/12761) **돌다리**
 
 (또) 문제를 안 읽어서 1시간가량 삽질한 문제.<br />
 문제도 정말 단순하고, 주미에게 도달하지 못하는 경우도 없고, 범위도 적당 + 시간도 충분하기 때문에 BFS로 완전탐색 해주면 된다.<br />

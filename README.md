@@ -5,6 +5,9 @@
 백준 계정 새로 팜: **c01d_br0th3r**<br />
 목표: 지금까지 스터디한 문제들 싹 다 다시 풀고 구종만 알고리즘 부시기
 
+### 특이사항
+
+20/05/20: 소스가 너무 많아져서 `sources` 디렉토리 생성, 파일 옮김
 
 ## Day 1
 
@@ -57,6 +60,8 @@ C++의 STL 사용법을 익히니 재귀를 이용하는 DFS보다 BFS가 쉽고
 
 * [BOJ 15354](https://www.acmicpc.net/problem/15354) **Aron**
 
+코딩 시간보다 문제 읽는 시간이 오래 걸렸다.<br />
+단순 반복분 연습 문제여서 넘어가도 될 듯?
 
 * [BOJ 15355](https://www.acmicpc.net/problem/15355) **Programiranje**
 

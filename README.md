@@ -117,6 +117,11 @@ N+1날 돈을 받는다고 생각하고 `dp[i+T[i]]`를 갱신하는 것 까진 
 
 ## Day 5
 * [BOJ 15650](https://www.acmicpc.net/problem/15650) **N과M(2)**
+
+단순 백트래킹 2번째 문제. 구현 중 변수를 잘못 써서 20분정도 삽질했다 ㅋㅋㅋㅋ <br />
+`visited` 배열을 선언해서 M번 재귀호출 후 방문한 곳을 출력, 그 후 백트래킹으로 배열을 초기화해주면 된다.<br />
+간단하니깐 넘어가도 좋을듯!!
+
 * [BOJ 2630](https://www.acmicpc.net/problem/2630) **색종이 만들기**
 * [BOJ 2580](https://www.acmicpc.net/problem/2580) **스도쿠**
 

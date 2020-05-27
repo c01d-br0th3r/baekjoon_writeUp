@@ -168,5 +168,10 @@ for문에서 리턴되지 않고 빠져나왔다면 모두 같은 색이란 뜻�
 ## Day 7
 
 * [BOJ 11403](https://www.acmicpc.net/problem/11403) **경로 찾기**
+
+단순 BFS 문제인데 `visited` 배열을 잘못 처리해서 삽질한 문제.. <br />
+각 행마다 BFS를 돌려서 갈 수 있는 모든 곳을 체크해주면 된다. 단, 행이 바뀔 때마다 `visited` 배열을 초기화해주지 않으면<br />
+첫 번째 행만 제대로 나오는 대참사가 일어난다ㅠㅠ 이것 때문에 1시간 정도 삽질했다.
+
 * [BOJ 17027](https://www.acmicpc.net/problem/17027) **Shell Game**
 * [BOJ 15591](https://www.acmicpc.net/problem/15591) **MooTube (Silver)**

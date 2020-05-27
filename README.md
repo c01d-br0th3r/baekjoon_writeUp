@@ -162,3 +162,11 @@ for문에서 리턴되지 않고 빠져나왔다면 모두 같은 색이란 뜻�
 말로 설명하려니 굉장히 복잡하지만.. 표로 직접 그려보면 굉장히 직관적으로 보인다!! 직접 해보자.
 
 * [BOJ 3850](https://www.acmicpc.net/problem/3850) **Jumping Monkey**
+
+*****************************************************************************
+
+## Day 7
+
+* [BOJ 11403](https://www.acmicpc.net/problem/11403) **경로 찾기**
+* [BOJ 17027](https://www.acmicpc.net/problem/17027) **Shell Game**
+* [BOJ 15591](https://www.acmicpc.net/problem/15591) **MooTube (Silver)**

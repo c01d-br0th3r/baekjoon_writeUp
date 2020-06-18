@@ -202,5 +202,10 @@ BFS에 이어서 나온 DFS 문제, 말은 어렵지만 풀이 자체는 굉장�
 ### Day 9
 
  * [BOJ  1697](https://www.acmicpc.net/problem/1697) **숨바꼭질**
+ 
+ 다시 풀어보면서 느끼는건데, 정말 BFS / DFS 문제를 많이 풀었다. 기초적인 BFS는 눈 감고도 짤 수 있을 것 같다ㅋㅋ <br />
+ 문제의 핵심은 모든 경우를 돌며 가장 먼저 K에 도달하는 순간 cnt를 출력하는 것이다. 최소 이동거리가 필요하므로 BFS가 적합하다. <br />
+ 시작할 때 `using namespace std;`를 안 적어놔서 `pair`가 인식이 안 됐다. 이거 찾는 시간이 더 오래 걸린 듯? 🙃
+ 
  * [BOJ 11404](https://www.acmicpc.net/problem/11404) **플로이드**
  * [BOJ  1753](https://www.acmicpc.net/problem/1753) **최단경로**

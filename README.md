@@ -196,3 +196,11 @@ BFS에 이어서 나온 DFS 문제, 말은 어렵지만 풀이 자체는 굉장�
 최소 자음 / 모음 규칙이 들어있기 때문에 `cnt == L`일 경우일 때 걸러주면 끝!
 
 * [BOJ 2662](https://www.acmicpc.net/problem/2662) **기업투자**
+
+*****************************************************************************
+
+### Day 9
+
+ * [BOJ  1697](https://www.acmicpc.net/problem/1697) **숨바꼭질**
+ * [BOJ 11404](https://www.acmicpc.net/problem/11404) **플로이드**
+ * [BOJ  1753](https://www.acmicpc.net/problem/1753) **최단경로**

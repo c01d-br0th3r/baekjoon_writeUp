@@ -231,4 +231,6 @@ BFS에 이어서 나온 DFS 문제, 말은 어렵지만 풀이 자체는 굉장�
  
 * [BOJ 2022](https://www.acmicpc.net/problem/2022) **사다리**
 * [BOJ 14502](https://www.acmicpc.net/problem/14502) **연구소**
+
+dfs와 bfs가 합쳐진 끔찍한 혼종 문제.
 * [BOJ 1520](https://www.acmicpc.net/problem/1520) **내리막길** : DP

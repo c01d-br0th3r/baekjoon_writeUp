@@ -240,4 +240,4 @@ BFS 시작 전 `l` 벡터에 있는 좌표들의 값을 1로 바꾼 후 BFS를 �
 여러 개의 태스트케이스를 돌려야 하므로 `init()` 함수에서 `cp_arr` 배열을 항상 처음에 입력받았던 배열로 초기화해주어야 한다.<br />
 복잡하지만 논리가 확실했던 문제였다.
 
-* [BOJ 1520](https://www.acmicpc.net/problem/1520) **내리막길** : DP
+* [BOJ 1520](https://www.acmicpc.net/problem/1520) **내리막길**
